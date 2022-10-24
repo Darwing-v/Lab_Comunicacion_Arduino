@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Organizar_num.bin.dir/src/files_ops1.c.o CMakeFiles/Organizar_num.bin.dir/src/main.c.o CMakeFiles/Organizar_num.bin.dir/src/funciones.c.o -o bin/Organizar_num.bin 
