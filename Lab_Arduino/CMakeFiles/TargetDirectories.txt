@@ -1,0 +1,3 @@
+/home/alse/Documents/Lab_Arduino/CMakeFiles/juego_pulsador.bin.dir
+/home/alse/Documents/Lab_Arduino/CMakeFiles/edit_cache.dir
+/home/alse/Documents/Lab_Arduino/CMakeFiles/rebuild_cache.dir

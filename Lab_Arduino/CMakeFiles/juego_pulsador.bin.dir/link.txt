@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/juego_pulsador.bin.dir/src/config_tty.cpp.o CMakeFiles/juego_pulsador.bin.dir/src/main.cpp.o CMakeFiles/juego_pulsador.bin.dir/src/funciones_gr6.cpp.o -o bin/juego_pulsador.bin 
