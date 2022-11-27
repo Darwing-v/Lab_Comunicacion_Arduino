@@ -1,3 +1,0 @@
-/home/alse/Documents/organizar_num/CMakeFiles/Organizar_num.bin.dir
-/home/alse/Documents/organizar_num/CMakeFiles/edit_cache.dir
-/home/alse/Documents/organizar_num/CMakeFiles/rebuild_cache.dir
